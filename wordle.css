@@ -1,0 +1,4 @@
+h1 {position:absolute;margin-left: 650px;font-size:60px;font-family:'Magneto';}
+.case {height:60px;width:60px;background-color: white;border:5px solid;border-color: black;}
+body {background-image: url("image4.jpg");background-size:cover;}
+.message_fin {position:absolute;margin-left:50px;margin-top:250px;font-size: 50px;color:orange;font-family:'Bauhaus 93'}
